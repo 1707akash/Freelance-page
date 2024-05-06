@@ -12,7 +12,8 @@ const Work = () => {
         width:'4rem',
         padding:'0.5rem',
         backgroundColor:'#00ff00',
-        borderRadius:'50%'}} />
+        borderRadius:'50%',
+        border:'5px solid black'}} />
     <h4>WORK</h4>
     </div>
 

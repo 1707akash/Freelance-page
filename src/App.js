@@ -3,6 +3,7 @@ import './App.css';
 import Maintop from './Components/Maintop';
 import Work from './Components/Work';
 import Skills from './Components/Skills';
+import Icons from './Components/Icons';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Maintop />
       <Work />
       <Skills />
+      <Icons />
     </div>
   );
 }
