@@ -1,0 +1,41 @@
+
+
+.maintop{
+    display: flex;
+    text-align: center;
+    gap: 2rem;
+    width: 60%;
+    margin: auto;
+}
+.leftIcon{
+    width: 20%;
+    padding-top: 2rem;
+}
+.nameDiv h1{
+    margin: 0;
+}
+.leftIcon h4{
+    margin: 0;
+    
+}
+
+
+.rightDiv{
+    display: flex;
+    width: 80%;
+    border-bottom: 4px solid black;
+    align-items: center;
+}
+.nameDiv{
+    width: 50%;
+    
+}
+.mailDiv{
+    width: 50%;
+    padding: 0 0.5rem;
+    border-left: 4px solid black;
+}
+.bold{
+    font-weight: 600;
+    padding-right: 1rem;
+}
