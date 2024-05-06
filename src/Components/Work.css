@@ -1,1 +1,42 @@
 
+.work{
+    display: flex;
+    text-align: center;
+    gap: 2rem;
+    width: 68%;
+    margin: auto;
+    padding-top: 1rem;
+}
+.workLeft{
+    width: 20%;
+    padding-top: 2rem;
+}
+.workLeft h4{
+    margin: 0;
+    padding-top: '';
+}
+.workRight{
+    text-align: left;
+}
+.workpresent{
+    display: flex;
+    gap: 1.5rem;
+}
+.workyear{
+    display: flex;
+    gap: 1.5rem;
+}
+.workDuration{
+    display: flex;
+    gap: 1.5rem;
+}
+.firstLine{
+    margin: 0;
+    
+}
+.topspan{
+    width: 5rem;
+}
+.innerRight p{
+    margin: 5px;
+}
